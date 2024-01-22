@@ -14,6 +14,6 @@ _Para dar mayor facilidad, Python ofrece la función open() para «abrir» un fi
 
 - **Lectura del contenido de un fichero existente.**
 
-- Escritura del contenido en un fichero nuevo.
+- **Escritura del contenido en un fichero nuevo.**
 
 - Añadido al contenido de un fichero existente.
