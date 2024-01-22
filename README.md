@@ -10,7 +10,7 @@ _Aunque los ficheros se podrían encajar en más de un apartado de «entrada/sal
 
 ## **Lectura de un fichero**
 
-Para dar mayor facilidad, Python ofrece la función open() para «abrir» un fichero. Esta apertura se puede realizar en 3 modos distintos:
+_Para dar mayor facilidad, Python ofrece la función open() para «abrir» un fichero. Esta apertura se puede realizar en 3 modos distintos:_
 
 - Lectura del contenido de un fichero existente.
 
