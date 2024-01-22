@@ -6,7 +6,7 @@ _Aunque los ficheros se podrían encajar en más de un apartado de «entrada/sal
 
 - **En este contexto, permanente quiere decir que, salvo fallos catastróficos o hasta que sean borrados a propósito, estos datos permanecen en el medio en que se almacenan (medios magnéticos o de otro tipo) y continúan existiendo después de que el programa que los creó deja de ejecutarse, incluso después de apagar el ordenador.**
 
-- Esto marca la diferencia con los datos que son provisionalmente almacenados en la memoria RAM, la memoria volátil del ordenador, que no sobreviven al programa que los crea y mucho menos a la desconexión del computador de la red eléctrica.
+- **Esto marca la diferencia con los datos que son provisionalmente almacenados en la memoria RAM, la memoria volátil del ordenador, que no sobreviven al programa que los crea y mucho menos a la desconexión del computador de la red eléctrica.**
 
 ## **Lectura de un fichero**
 
