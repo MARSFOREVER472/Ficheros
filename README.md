@@ -1,6 +1,6 @@
 # Ficheros
 
-Aunque los ficheros encajarían más en un apartado de «entrada/salida» ya que representan un medio de almacenamiento persistente, también podrían ser vistos como estructuras de datos, puesto que nos permiten guardar la información y asignarles un cierto formato. 
+_Aunque los ficheros encajarían más en un apartado de «entrada/salida» ya que representan un medio de almacenamiento persistente, también podrían ser vistos como estructuras de datos, puesto que nos permiten guardar la información y asignarles un cierto formato._ 
 
 - Un fichero es un conjunto de datos relacionados entre sí, que son almacenados de forma permanente en dispositivos tales como discos duros, memorias flash, etc. y que pueden ser tratados, hasta cierto punto, como una unidad.
 
